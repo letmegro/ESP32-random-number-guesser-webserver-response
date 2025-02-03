@@ -5,8 +5,7 @@ eventually I want to get this mini project connected to a larger experimental pr
 
 Milestone 1: Successfully generate HTML code and responses that are handled in the micro controller using C++. :white_check_mark:
 
-Milestone 2: add header value extraction and conversion for greater handling capabilities within the microcontroller. 
-
+Milestone 2: add header value extraction and conversion for greater handling capabilities within the microcontroller. :eight_spoked_asterisk:
 
 Goal: connect random number guesser to a larger project so a user can select and play guess while the microcontroller is operational
 
