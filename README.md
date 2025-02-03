@@ -9,3 +9,5 @@ Milestone 2: add header value extraction and conversion for greater handling cap
 
 
 Goal: connect random number guesser to a larger project so a user can select and play guess while the microcontroller is operational
+
+##Note:The sample code will evolve with time
