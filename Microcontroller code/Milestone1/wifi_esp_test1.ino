@@ -1,6 +1,6 @@
 #include <WiFi.h>
-const char* ssid = "Cinnabon";
-const char* password = "4hoursLong:)";
+const char* ssid = "xxxx";
+const char* password = "xxxx";
 WiFiServer server(80);
 String header = "";
 void setup() {
